@@ -1,0 +1,20 @@
+import React from "react"
+import ReactDOM from "react-dom"
+
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+//note react will be inserted between the open and closing tag in the div below
+<div id="root"></div>
+
+<script scr="index pack.js"></script>
+</body>
+</html>
+
+ReactDOM.render(what do I want to Render)
+
+document.getElementById("root"))
+
